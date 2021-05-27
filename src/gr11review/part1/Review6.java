@@ -22,8 +22,7 @@ public class Review6 {
     double tax;
     double total;
     double itemPrice = -1d;
-    int numberOfItems = 0;
-
+    
     // Decimal format
     NumberFormat numberFormat = new DecimalFormat("#,##0.00");
 
